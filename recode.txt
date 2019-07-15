@@ -1,0 +1,53 @@
+[2019-01-21 14:51:34]
+[Unsupported] Windows(R), ProfessionalEducation edition(3f1afc82-f8ac-4f6c-8005-1d233e606eee) System: 10 Education
+[2019-01-21 14:51:36]
+[Unsupported] Windows(R), ProfessionalWorkstation edition(82bbc092-bc50-4e16-8e18-b74fc486aec3) System: 10 Education
+[2019-01-21 14:51:40]
+[Unsupported] Windows(R), ServerRdsh edition(e4db50ea-bda1-4566-b047-0ca50abc6f07) System: 10 Education
+[2019-01-21 14:51:48]
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+---Processing--------------------------
+---------------------------------------
+Installed product key detected - attempting to activate the following product:
+SKU ID: 70d9ceb6-6dfa-4da4-b413-18c1c3c76e2e
+LICENSE NAME: Office 16, Office16ProPlusR_Grace edition
+LICENSE DESCRIPTION: Office 16, RETAIL(Grace) channel
+Last 5 characters of installed product key: BTDRB
+ERROR CODE: 0xC004F017
+ERROR DESCRIPTION: The Software Licensing Service reported that the license is not installed.
+---------------------------------------
+Installed product key detected - attempting to activate the following product:
+SKU ID: d450596f-894d-49e0-966a-fd39ed4c4c64
+LICENSE NAME: Office 16, Office16ProPlusVL_KMS_Client edition
+LICENSE DESCRIPTION: Office 16, VOLUME_KMSCLIENT channel
+Last 5 characters of installed product key: WFG99
+<Product activation successful>
+---------------------------------------
+Installed product key detected - attempting to activate the following product:
+SKU ID: de52bd50-9564-4adc-8fcb-a345c17f84f9
+LICENSE NAME: Office 16, Office16ProPlusR_Retail edition
+LICENSE DESCRIPTION: Office 16, RETAIL channel
+Last 5 characters of installed product key: YWRHH
+<Product activation successful>
+---------------------------------------
+Installed product key detected - attempting to activate the following product:
+SKU ID: e13ac10e-75d0-4aff-a0cd-764982cf541c
+LICENSE NAME: Office 15, OfficeVisioProVL_KMS_Client edition
+LICENSE DESCRIPTION: Office 15, VOLUME_KMSCLIENT channel
+Last 5 characters of installed product key: RM3B3
+<Product activation successful>
+---------------------------------------
+---------------------------------------
+---Exiting-----------------------------
+
+[2019-01-21 14:51:51]
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+正在激活 Windows(R), Education edition (e0c42288-980c-4788-a014-c080d2e1926e) ...
+成功地激活了产品。
+
+
+

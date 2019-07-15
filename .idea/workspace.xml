@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0422f82c-2a15-4c81-9609-1bfd7f8ae47b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6-2递归.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/if循环嵌套.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>size</find>
+      <find>下载</find>
+      <find>url</find>
+      <find>headers</find>
+      <find>cho</find>
+      <find>file_name</find>
+      <find>auto_download</find>
+      <find>clock</find>
+      <find>&lt;span class=&quot;left&quot;&gt;</find>
+      <find>re</find>
+      <find>os</find>
+      <find>student</find>
+      <find>青</find>
+      <find>download_pic</find>
+      <find>question_id</find>
+      <find>run</find>
+      <find>sch</find>
+      <find>font</find>
+      <find>return</find>
+      <find>reg</find>
+      <find>zhihu_url</find>
+      <find>get_image_url</find>
+      <find>日本</find>
+      <find>import</find>
+      <find>run_thread</find>
+      <find>connect</find>
+      <find>requests</find>
+      <find>source_url</find>
+      <find>middle_image</find>
+      <find>PyQuery</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/第10天/yanzm_test.py" />
+        <option value="$PROJECT_DIR$/第11天/filtered_words.txt" />
+        <option value="$PROJECT_DIR$/baidu_img.py" />
+        <option value="$PROJECT_DIR$/baidu_img/lianjie" />
+        <option value="$PROJECT_DIR$/re.py" />
+        <option value="$PROJECT_DIR$/第11天/Sensitive word.py" />
+        <option value="$PROJECT_DIR$/re-test.py" />
+        <option value="$PROJECT_DIR$/第12天/Sensitive_word.py" />
+        <option value="$PROJECT_DIR$/第12天/test.py" />
+        <option value="$PROJECT_DIR$/第13天/pac_img.py" />
+        <option value="$PROJECT_DIR$/第14天/student.txt" />
+        <option value="$PROJECT_DIR$/第14天/student_excel.py" />
+        <option value="$PROJECT_DIR$/第14天/urllib3.py" />
+        <option value="$PROJECT_DIR$/第14天/py.py" />
+        <option value="$PROJECT_DIR$/第14天/urllib3_test.py" />
+        <option value="$PROJECT_DIR$/异步io学习/yield.py" />
+        <option value="$PROJECT_DIR$/res.py" />
+        <option value="$PROJECT_DIR$/第23天/web_ly.py" />
+        <option value="C:/Program Files/Python37/Lib/site-packages/asyncio/base_events.py" />
+        <option value="$PROJECT_DIR$/第23天/run.py" />
+        <option value="$PROJECT_DIR$/第0天/add_num.py" />
+        <option value="$PROJECT_DIR$/异步io学习/yield2.py" />
+        <option value="$PROJECT_DIR$/database/sqlite.py" />
+        <option value="$PROJECT_DIR$/zhihupac.py" />
+        <option value="$PROJECT_DIR$/selenium/selenium_test.py" />
+        <option value="$PROJECT_DIR$/database/Mysql.py" />
+        <option value="$PROJECT_DIR$/第21天/passwd.py" />
+        <option value="$PROJECT_DIR$/网易新闻/adobe.txt" />
+        <option value="$PROJECT_DIR$/异步io爬虫/test.py" />
+        <option value="$PROJECT_DIR$/异步io爬虫/default.py" />
+        <option value="$PROJECT_DIR$/异步io爬虫/2.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/socket/socket_client.py" />
+        <option value="$PROJECT_DIR$/socket/socket_server.py" />
+        <option value="$PROJECT_DIR$/meituanlogin.py" />
+        <option value="$PROJECT_DIR$/json_test.py" />
+        <option value="$PROJECT_DIR$/lxml.py" />
+        <option value="$PROJECT_DIR$/lxml_text.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/requests/index.py" />
+        <option value="$PROJECT_DIR$/异步io爬虫/yield_test.py" />
+        <option value="$PROJECT_DIR$/网易新闻/default.py" />
+        <option value="$PROJECT_DIR$/异步io爬虫/aiohttp_spird.py" />
+        <option value="$PROJECT_DIR$/socket/socket_http.py" />
+        <option value="$PROJECT_DIR$/多线程/threading.py" />
+        <option value="$PROJECT_DIR$/多线程/threading_test.py" />
+        <option value="$PROJECT_DIR$/ip_table.py" />
+        <option value="$PROJECT_DIR$/baidu_img/baidu_img.py" />
+        <option value="$PROJECT_DIR$/5.py" />
+        <option value="$PROJECT_DIR$/if循环嵌套.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="251" />
+    <option name="y" value="-8" />
+    <option name="width" value="1022" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\a small program every day\baidu_img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\a small program every day\第12天" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.6-2递归">
+    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a small program every day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6-2递归" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a small program every day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-2递归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baidu_img" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a small program every day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baidu_img" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu_img/baidu_img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ip_table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a small program every day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ip_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="threading_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a small program every day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/threading_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.6-2递归" />
+        <item itemvalue="Python.4" />
+        <item itemvalue="Python.baidu_img" />
+        <item itemvalue="Python.ip_table" />
+        <item itemvalue="Python.threading_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0422f82c-2a15-4c81-9609-1bfd7f8ae47b" name="Default Changelist" comment="" />
+      <created>1558340432037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558340432037</updated>
+      <workItem from="1558340433363" duration="4939000" />
+      <workItem from="1558402326467" duration="10787000" />
+      <workItem from="1558426794249" duration="98852000" />
+      <workItem from="1559293340175" duration="32640000" />
+      <workItem from="1560150546224" duration="131953000" />
+    </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1561630249508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561630249508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="替换掉之前的，现在整合全部。">
+      <created>1563163898816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563163898816</updated>
+    </task>
+    <task id="LOCAL-00003" summary="替换掉之前的，现在整合全部。">
+      <created>1563163929380</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563163929380</updated>
+    </task>
+    <task id="LOCAL-00004" summary="替换掉之前的，现在整合全部。">
+      <created>1563175112096</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563175112096</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="279171000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13224447" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.24918744" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.48970747" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.5915493" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.3347779" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32900432" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.09307359" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.24377032" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34561214" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.29112554" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32900432" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="111" />
+    <MESSAGE value="替换掉之前的，现在整合全部。" />
+    <option name="LAST_COMMIT_MESSAGE" value="替换掉之前的，现在整合全部。" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PIL/ImageFont.py</url>
+          <line>290</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$yanzm_test.coverage" NAME="yanzm_test Coverage Results" MODIFIED="1559116925075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第10天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$aiohttp_spird.coverage" NAME="aiohttp_spird Coverage Results" MODIFIED="1562314060669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步io爬虫" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$threading_test.coverage" NAME="threading_test Coverage Results" MODIFIED="1562314927707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$student_excel.coverage" NAME="student_excel Coverage Results" MODIFIED="1561450302135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第14天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$py.coverage" NAME="py Coverage Results" MODIFIED="1559640435828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第14天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$man_woman.coverage" NAME="man_woman Coverage Results" MODIFIED="1559554491192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第10天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$urllib3_test.coverage" NAME="urllib3_test Coverage Results" MODIFIED="1559704257622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第14天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$sqlite.coverage" NAME="sqlite Coverage Results" MODIFIED="1560499678733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$new_001.coverage" NAME="new_001 Coverage Results" MODIFIED="1558668522416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第1天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$yield_test.coverage" NAME="yield_test Coverage Results" MODIFIED="1562056700433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步io爬虫" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$string.coverage" NAME="string Coverage Results" MODIFIED="1559118240078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第10天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$re.coverage" NAME="re Coverage Results" MODIFIED="1559198210910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$HTML_href.coverage" NAME="HTML_href Coverage Results" MODIFIED="1561450340984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第9天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$2.coverage" NAME="2 Coverage Results" MODIFIED="1561603764105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步io爬虫" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$IMG_IPHONT5_Resolution.coverage" NAME="IMG_IPHONT5_Resolution Coverage Results" MODIFIED="1558942080516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第5天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$yield.coverage" NAME="yield Coverage Results" MODIFIED="1560153796636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步io学习" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$html_body.coverage" NAME="html_body Coverage Results" MODIFIED="1561450356571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第8天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$lxml.coverage" NAME="lxml Coverage Results" MODIFIED="1562033493055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$random.coverage" NAME="random Coverage Results" MODIFIED="1559032080830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第10天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$rl_test.coverage" NAME="rl_test Coverage Results" MODIFIED="1560392452931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$test_tx.coverage" NAME="test_tx Coverage Results" MODIFIED="1559010283060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第8天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$Sensitive_word.coverage" NAME="Sensitive_word Coverage Results" MODIFIED="1559292510650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第12天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$statistics_test.coverage" NAME="statistics_test Coverage Results" MODIFIED="1561450368409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$res.coverage" NAME="res Coverage Results" MODIFIED="1560156989934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$add_num.coverage" NAME="add_num Coverage Results" MODIFIED="1560418429884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第0天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$baidu_img.coverage" NAME="baidu_img Coverage Results" MODIFIED="1562321024258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu_img" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$socket_http.coverage" NAME="socket_http Coverage Results" MODIFIED="1562314124693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$ip_table.coverage" NAME="ip_table Coverage Results" MODIFIED="1562320866394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$test.coverage" NAME="test Coverage Results" MODIFIED="1561703820946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1561714140325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$meituanlogin.coverage" NAME="meituanlogin Coverage Results" MODIFIED="1561963575248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1561708842948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$re_test.coverage" NAME="re-test Coverage Results" MODIFIED="1559204832905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$wenbentonji.coverage" NAME="wenbentonji Coverage Results" MODIFIED="1558599621080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第4题" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$default__1_.coverage" NAME="default (1) Coverage Results" MODIFIED="1561626351396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步io爬虫" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$default.coverage" NAME="default Coverage Results" MODIFIED="1562313930533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网易新闻" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$lxml_text.coverage" NAME="lxml_text Coverage Results" MODIFIED="1562053845329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$man_woman_2.coverage" NAME="man_woman=2 Coverage Results" MODIFIED="1559111304359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第10天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$run.coverage" NAME="run Coverage Results" MODIFIED="1561450240326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第23天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$selenium_test.coverage" NAME="selenium_test Coverage Results" MODIFIED="1561341721131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$json_test.coverage" NAME="json_test Coverage Results" MODIFIED="1562033170299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$pac_img.coverage" NAME="pac_img Coverage Results" MODIFIED="1561450312393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第13天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$zhihupac.coverage" NAME="zhihupac Coverage Results" MODIFIED="1560504055094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1561714142508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$yield2.coverage" NAME="yield2 Coverage Results" MODIFIED="1561628067767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/异步io学习" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$mysqd_python.coverage" NAME="mysqd_python Coverage Results" MODIFIED="1558514713995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$passwd.coverage" NAME="passwd Coverage Results" MODIFIED="1561359975185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第21天" />
+    <SUITE FILE_PATH="coverage/a_small_program_every_day$index.coverage" NAME="index Coverage Results" MODIFIED="1562055532357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database/sqlite.py" />
+    <entry file="file://$PROJECT_DIR$/网易新闻/adobe.txt" />
+    <entry file="file://$PROJECT_DIR$/第23天/run.py" />
+    <entry file="file://$PROJECT_DIR$/第21天/passwd.py" />
+    <entry file="file://$PROJECT_DIR$/第14天/urllib3_test.py" />
+    <entry file="file://$PROJECT_DIR$/第14天/student_excel.py" />
+    <entry file="file://$PROJECT_DIR$/第11天/Sensitive word.py" />
+    <entry file="file://$PROJECT_DIR$/第10天/t1.png" />
+    <entry file="file://$PROJECT_DIR$/第13天/pac_img.py" />
+    <entry file="file://$PROJECT_DIR$/第9天/HTML_href.py" />
+    <entry file="file://$PROJECT_DIR$/第8天/html_body.py" />
+    <entry file="file://$PROJECT_DIR$/第8天/test_tx.py" />
+    <entry file="file://$PROJECT_DIR$/第7天/statistics_test.py" />
+    <entry file="file://$PROJECT_DIR$/第14天/py.py" />
+    <entry file="file://$PROJECT_DIR$/rl_test.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/os.py" />
+    <entry file="file://$PROJECT_DIR$/异步io爬虫/2.py" />
+    <entry file="file://$PROJECT_DIR$/zhihupac.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/random.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/threading.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/socket.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/typing.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="526" column="33" selection-start-line="526" selection-start-column="33" selection-end-line="526" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket/socket_server.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/json/decoder.py" />
+    <entry file="file://$PROJECT_DIR$/异步io爬虫/test.py" />
+    <entry file="file://$PROJECT_DIR$/异步io爬虫/default.py" />
+    <entry file="file://$PROJECT_DIR$/meituanlogin.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/requests/utils.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/requests/api.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/test2.py" />
+    <entry file="file://$PROJECT_DIR$/json_test.py" />
+    <entry file="file://$PROJECT_DIR$/lxml_text.py" />
+    <entry file="file://$PROJECT_DIR$/re-test.py" />
+    <entry file="file://$PROJECT_DIR$/异步io学习/yield2.py" />
+    <entry file="file://$PROJECT_DIR$/异步io爬虫/yield_test.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="513">
+            <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/index.py" />
+    <entry file="file://$PROJECT_DIR$/socket/socket_client.py" />
+    <entry file="file://$PROJECT_DIR$/异步io爬虫/aiohttp_spird.py" />
+    <entry file="file://$PROJECT_DIR$/socket/socket_http.py" />
+    <entry file="file://$PROJECT_DIR$/多线程/threading_test.py" />
+    <entry file="file://$PROJECT_DIR$/网易新闻/default.py" />
+    <entry file="file://$PROJECT_DIR$/ip_table.py" />
+    <entry file="file://$PROJECT_DIR$/baidu_img/baidu_img.py" />
+    <entry file="file://$PROJECT_DIR$/5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-2递归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if循环嵌套.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
