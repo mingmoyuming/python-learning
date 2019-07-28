@@ -55,7 +55,7 @@ def sendwechat():
         print("发送失败，可能是数据重复了")
 
 if __name__ == "__main__":
-    global zw
+    #global zw
     start = time.time()
     js = 0
     #print("今天是%s，今天的新闻有：" %time.strftime("%Y{}%m{}%d{}").format('年', '月', '日'))

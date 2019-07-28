@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0422f82c-2a15-4c81-9609-1bfd7f8ae47b" name="Default Changelist" comment="" />
+    <list default="true" id="0422f82c-2a15-4c81-9609-1bfd7f8ae47b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Aircraft price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-learning/网易新闻/default.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-learning/网易新闻/default.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,55 +32,6 @@
       </path>
     </expand>
     <select />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6-2递归.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/if循环嵌套.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -122,90 +79,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/第10天/yanzm_test.py" />
-        <option value="$PROJECT_DIR$/第11天/filtered_words.txt" />
-        <option value="$PROJECT_DIR$/baidu_img.py" />
-        <option value="$PROJECT_DIR$/baidu_img/lianjie" />
-        <option value="$PROJECT_DIR$/re.py" />
-        <option value="$PROJECT_DIR$/第11天/Sensitive word.py" />
-        <option value="$PROJECT_DIR$/re-test.py" />
-        <option value="$PROJECT_DIR$/第12天/Sensitive_word.py" />
-        <option value="$PROJECT_DIR$/第12天/test.py" />
-        <option value="$PROJECT_DIR$/第13天/pac_img.py" />
-        <option value="$PROJECT_DIR$/第14天/student.txt" />
-        <option value="$PROJECT_DIR$/第14天/student_excel.py" />
-        <option value="$PROJECT_DIR$/第14天/urllib3.py" />
-        <option value="$PROJECT_DIR$/第14天/py.py" />
-        <option value="$PROJECT_DIR$/第14天/urllib3_test.py" />
-        <option value="$PROJECT_DIR$/异步io学习/yield.py" />
-        <option value="$PROJECT_DIR$/res.py" />
-        <option value="$PROJECT_DIR$/第23天/web_ly.py" />
-        <option value="C:/Program Files/Python37/Lib/site-packages/asyncio/base_events.py" />
-        <option value="$PROJECT_DIR$/第23天/run.py" />
-        <option value="$PROJECT_DIR$/第0天/add_num.py" />
-        <option value="$PROJECT_DIR$/异步io学习/yield2.py" />
-        <option value="$PROJECT_DIR$/database/sqlite.py" />
-        <option value="$PROJECT_DIR$/zhihupac.py" />
-        <option value="$PROJECT_DIR$/selenium/selenium_test.py" />
-        <option value="$PROJECT_DIR$/database/Mysql.py" />
-        <option value="$PROJECT_DIR$/第21天/passwd.py" />
-        <option value="$PROJECT_DIR$/网易新闻/adobe.txt" />
-        <option value="$PROJECT_DIR$/异步io爬虫/test.py" />
-        <option value="$PROJECT_DIR$/异步io爬虫/default.py" />
-        <option value="$PROJECT_DIR$/异步io爬虫/2.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/test2.py" />
-        <option value="$PROJECT_DIR$/socket/socket_client.py" />
-        <option value="$PROJECT_DIR$/socket/socket_server.py" />
-        <option value="$PROJECT_DIR$/meituanlogin.py" />
-        <option value="$PROJECT_DIR$/json_test.py" />
-        <option value="$PROJECT_DIR$/lxml.py" />
-        <option value="$PROJECT_DIR$/lxml_text.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/requests/index.py" />
-        <option value="$PROJECT_DIR$/异步io爬虫/yield_test.py" />
-        <option value="$PROJECT_DIR$/网易新闻/default.py" />
-        <option value="$PROJECT_DIR$/异步io爬虫/aiohttp_spird.py" />
-        <option value="$PROJECT_DIR$/socket/socket_http.py" />
-        <option value="$PROJECT_DIR$/多线程/threading.py" />
-        <option value="$PROJECT_DIR$/多线程/threading_test.py" />
-        <option value="$PROJECT_DIR$/ip_table.py" />
-        <option value="$PROJECT_DIR$/baidu_img/baidu_img.py" />
-        <option value="$PROJECT_DIR$/5.py" />
-        <option value="$PROJECT_DIR$/if循环嵌套.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="251" />
-    <option name="y" value="-8" />
-    <option name="width" value="1022" />
-    <option name="height" value="726" />
-  </component>
+  <component name="ProjectId" id="1ObTlMPUydfn01EbFhsGrlEPg9a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -214,7 +90,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -236,28 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6-2递归">
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="a small program every day" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Aircraft price">
     <configuration name="6-2递归" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="a small program every day" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,29 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baidu_img" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="a small program every day" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baidu_img" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu_img/baidu_img.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ip_table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Aircraft price" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="a small program every day" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,8 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ip_table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aircraft price.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="threading_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="default" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="a small program every day" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,12 +163,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learning/网易新闻" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/threading_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learning/网易新闻/default.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a small program every day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="if循环嵌套" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a small program every day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if循环嵌套.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aircraft price" />
+        <item itemvalue="Python.dict_test" />
+        <item itemvalue="Python.default" />
+        <item itemvalue="Python.if循环嵌套" />
         <item itemvalue="Python.6-2递归" />
-        <item itemvalue="Python.4" />
-        <item itemvalue="Python.baidu_img" />
-        <item itemvalue="Python.ip_table" />
-        <item itemvalue="Python.threading_test" />
       </list>
     </recent_temporary>
   </component>
@@ -414,60 +287,27 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13224447" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.24918744" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.48970747" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" weight="0.32936078" />
-      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.5915493" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.3347779" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32900432" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32827735" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.09307359" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.24377032" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34561214" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.29112554" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32900432" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32827735" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/python-learning/a/python-learning" />
+    </ignored-roots>
     <MESSAGE value="111" />
     <MESSAGE value="替换掉之前的，现在整合全部。" />
     <option name="LAST_COMMIT_MESSAGE" value="替换掉之前的，现在整合全部。" />
@@ -532,103 +372,5 @@
     <SUITE FILE_PATH="coverage/a_small_program_every_day$mysqd_python.coverage" NAME="mysqd_python Coverage Results" MODIFIED="1558514713995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第2天" />
     <SUITE FILE_PATH="coverage/a_small_program_every_day$passwd.coverage" NAME="passwd Coverage Results" MODIFIED="1561359975185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第21天" />
     <SUITE FILE_PATH="coverage/a_small_program_every_day$index.coverage" NAME="index Coverage Results" MODIFIED="1562055532357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/database/sqlite.py" />
-    <entry file="file://$PROJECT_DIR$/网易新闻/adobe.txt" />
-    <entry file="file://$PROJECT_DIR$/第23天/run.py" />
-    <entry file="file://$PROJECT_DIR$/第21天/passwd.py" />
-    <entry file="file://$PROJECT_DIR$/第14天/urllib3_test.py" />
-    <entry file="file://$PROJECT_DIR$/第14天/student_excel.py" />
-    <entry file="file://$PROJECT_DIR$/第11天/Sensitive word.py" />
-    <entry file="file://$PROJECT_DIR$/第10天/t1.png" />
-    <entry file="file://$PROJECT_DIR$/第13天/pac_img.py" />
-    <entry file="file://$PROJECT_DIR$/第9天/HTML_href.py" />
-    <entry file="file://$PROJECT_DIR$/第8天/html_body.py" />
-    <entry file="file://$PROJECT_DIR$/第8天/test_tx.py" />
-    <entry file="file://$PROJECT_DIR$/第7天/statistics_test.py" />
-    <entry file="file://$PROJECT_DIR$/第14天/py.py" />
-    <entry file="file://$PROJECT_DIR$/rl_test.py" />
-    <entry file="file://C:/Program Files/Python37/Lib/os.py" />
-    <entry file="file://$PROJECT_DIR$/异步io爬虫/2.py" />
-    <entry file="file://$PROJECT_DIR$/zhihupac.py" />
-    <entry file="file://C:/Program Files/Python37/Lib/random.py" />
-    <entry file="file://C:/Program Files/Python37/Lib/threading.py" />
-    <entry file="file://C:/Program Files/Python37/Lib/socket.py" />
-    <entry file="file://C:/Program Files/Python37/Lib/typing.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="526" column="33" selection-start-line="526" selection-start-column="33" selection-end-line="526" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socket_server.py" />
-    <entry file="file://C:/Program Files/Python37/Lib/json/decoder.py" />
-    <entry file="file://$PROJECT_DIR$/异步io爬虫/test.py" />
-    <entry file="file://$PROJECT_DIR$/异步io爬虫/default.py" />
-    <entry file="file://$PROJECT_DIR$/meituanlogin.py" />
-    <entry file="file://C:/Program Files/Python37/Lib/requests/utils.py" />
-    <entry file="file://C:/Program Files/Python37/Lib/requests/api.py" />
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/test2.py" />
-    <entry file="file://$PROJECT_DIR$/json_test.py" />
-    <entry file="file://$PROJECT_DIR$/lxml_text.py" />
-    <entry file="file://$PROJECT_DIR$/re-test.py" />
-    <entry file="file://$PROJECT_DIR$/异步io学习/yield2.py" />
-    <entry file="file://$PROJECT_DIR$/异步io爬虫/yield_test.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="513">
-            <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests/index.py" />
-    <entry file="file://$PROJECT_DIR$/socket/socket_client.py" />
-    <entry file="file://$PROJECT_DIR$/异步io爬虫/aiohttp_spird.py" />
-    <entry file="file://$PROJECT_DIR$/socket/socket_http.py" />
-    <entry file="file://$PROJECT_DIR$/多线程/threading_test.py" />
-    <entry file="file://$PROJECT_DIR$/网易新闻/default.py" />
-    <entry file="file://$PROJECT_DIR$/ip_table.py" />
-    <entry file="file://$PROJECT_DIR$/baidu_img/baidu_img.py" />
-    <entry file="file://$PROJECT_DIR$/5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6-2递归.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/if循环嵌套.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
