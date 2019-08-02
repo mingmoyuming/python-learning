@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0422f82c-2a15-4c81-9609-1bfd7f8ae47b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aircraft price.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aio_http_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-learning/网易新闻/default.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-learning/网易新闻/default.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aircraft price.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aircraft price.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,40 +39,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>size</find>
-      <find>下载</find>
-      <find>url</find>
-      <find>headers</find>
-      <find>cho</find>
-      <find>file_name</find>
-      <find>auto_download</find>
-      <find>clock</find>
-      <find>&lt;span class=&quot;left&quot;&gt;</find>
-      <find>re</find>
-      <find>os</find>
-      <find>student</find>
-      <find>青</find>
-      <find>download_pic</find>
-      <find>question_id</find>
-      <find>run</find>
-      <find>sch</find>
-      <find>font</find>
-      <find>return</find>
-      <find>reg</find>
-      <find>zhihu_url</find>
-      <find>get_image_url</find>
-      <find>日本</find>
-      <find>import</find>
-      <find>run_thread</find>
-      <find>connect</find>
-      <find>requests</find>
-      <find>source_url</find>
-      <find>middle_image</find>
-      <find>PyQuery</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,28 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aircraft price">
-    <configuration name="6-2递归" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="a small program every day" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-2递归.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.aio_http_test">
     <configuration name="Aircraft price" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="a small program every day" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,6 +91,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aircraft price.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aio_http_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a small program every day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aio_http_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aircraft price" />
+        <item itemvalue="Python.aio_http_test" />
         <item itemvalue="Python.dict_test" />
+        <item itemvalue="Python.Aircraft price" />
         <item itemvalue="Python.default" />
         <item itemvalue="Python.if循环嵌套" />
-        <item itemvalue="Python.6-2递归" />
       </list>
     </recent_temporary>
   </component>
